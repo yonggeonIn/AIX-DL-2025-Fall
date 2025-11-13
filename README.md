@@ -5,7 +5,7 @@ AI+X:딥러닝 2025-2 프로젝트
 <table>
   <tr>
     <td align="left" width="150px;"><b>팀명</b></td>
-    <td align="left" width="500px;">5G조</td>
+    <td align="left" width="500px;">GIF 플러스</td>
   </tr>
   <tr>
     <td align="left" width="150px;"><b>프로젝트 명</b></td>
