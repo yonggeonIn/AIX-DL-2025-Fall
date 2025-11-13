@@ -13,7 +13,7 @@ AI+X:딥러닝 2025-2 프로젝트
   </tr>
   <tr>
     <td align="left" width="150px;"><b>프로젝트 기간</b></td>
-    <td align="left" width="500px;">2023.08.28 ~ 2023.09.22</td>
+    <td align="left" width="500px;">2025.10.29 ~ 2025.12.20</td>
   </tr>
   <tr>
     <td align="left" width="150px;"><b>프로젝트 주제</b></td>
