@@ -75,11 +75,11 @@ AI+X:딥러닝 2025-2 프로젝트
     <td align="center"><b>내용</b></td>
   </tr>
   <tr>
-    <td align="center">2025.11.28</td>
+    <td align="center">2025.10.28</td>
     <td align="center">OT</td>
   </tr>
   <tr>
-    <td align="center">2026.11.04~2025.11.06</td>
+    <td align="center">2026.10.28~2025.11.06</td>
     <td align="center">프로젝트 기획 및 구체화</td>
   </tr>
   <tr>
